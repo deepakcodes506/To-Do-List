@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #153677, #4e085f);
+    background: linear-gradient(135deg, #665e69, #a94dc0);
     padding: 10px;
 }
 
@@ -50,8 +50,8 @@ input{
 button{
     border: none;
     outline: none;
-    padding: 16px 50px;
-    background: #ff5945;
+    padding: 18px 50px;
+    background: #960202;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -59,7 +59,7 @@ button{
 }
 ul li{
     list-style: none;
-    font-size: 17px;
+    font-size: 18px;
     padding: 12px 8px 12px 50px;
     user-select: none;
     cursor: pointer;
@@ -94,7 +94,7 @@ ul li span{
     height: 40px;
     font-size: 22px;
     color: #555;
-    line-height: 40px;
+    line-height: 38px;
     text-align: center;
     border-radius: 50%;
 
